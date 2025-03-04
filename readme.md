@@ -14,6 +14,9 @@
 2. python har_server.py
 
 
+### 浏览工具【快速浏览har】
+https://ericduran.github.io/chromeHAR/
+
 
 
 
